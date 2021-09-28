@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kbh9eJkKxwGj2opX41cB/x1/UnleUzkcr1/XDaNjCc+y/4hr5UpzUOjz8uNmGE7hvQUlCgW6hWQxMGn2eRkoAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Documents\\Studium\\5_Semester\\Softwarequali\\Einzelaufgabe\\Aufgabe_B\\Aufgabe_B\\Aufgabe_B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
